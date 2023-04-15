@@ -1,3 +1,3 @@
 # Cellularia
 
-Cellularia is a React web application that provides an interactive implementation of Conway's Game of Life. The Game of Life is a famous cellular automaton created by mathematician John Horton Conway in 1970, which simulates the behavior of a grid of cells that evolve over time based on simple rules.
+"Cellularia" is a one-word name that cleverly combines elements of Conway's Game of Life, a cellular automaton, with the concept of development or progression. The name is formed by merging "cellular", referring to the game's grid of cells that evolve based on rules, with the suffix "-aria" denoting a collection or system.
